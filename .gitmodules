@@ -1,0 +1,6 @@
+[submodule "RxCpp"]
+	path = RxCpp
+	url = git@github.com:ReactiveX/RxCpp.git
+[submodule "libDaisy"]
+	path = libDaisy
+	url = https://github.com/electro-smith/libDaisy.git
